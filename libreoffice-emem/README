@@ -1,0 +1,6 @@
+Simple LibreOffice Impress template.  You will need the Gill Sans MT
+font.
+
+- Run `make' to put the template in the right directories.
+
+- Run `make unpack' to extract the source files from emem.otp.
